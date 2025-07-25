@@ -14,5 +14,7 @@ p-charity keeps private contribute and receive profile, budget and transaction a
 
 p-charity supports enough stages(opening, dividing, closing, opening, dividing, closing, …) of one charity budget/event, automation contribute/receive, verify charity hosting/contributor/receiver, percentage amount, source amount.
 
+[back to projects …](https://github.com/vietphan1995/projects)
+
 ### Notes
 https://six-zinc-ad4.notion.site/p-charity-1bd5e832d6ee80a28300d660fbf8d2c4
