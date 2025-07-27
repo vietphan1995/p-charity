@@ -4,7 +4,7 @@
 
 [https://github.com/vietphan1995/p-charity](https://github.com/vietphan1995/p-charity)
 
-p-charity is an application software help you host charity budget, contributors can spend amount to this budget and receivers can get amount this budget. Every transaction from contributor or receiver is encoded like passcodes/passkeys/paircodes/pairkeys as p-code, contribute p-code is created base on contribute amount from contribute side and be saved from budget, receive p-code is created base on receive amount, with contribute p-code saved in budget from receive side.
+p-charity is an application software help you host charity budget, contributors can spend amount to this budget and receivers can get amount this budget. Every transaction from contributor or receiver is encoded like passcodes/passkeys/paircodes/pairkeys as p-code, contribute p-code is created base on contribute amount from contribute side and be saved in budget host, receive p-code is created base on receive amount, with contribute p-code saved in budget host from receive side.
 
 If receive amount less than contribute amount, next receive p-code is still encoded with this contribute amount until this contribute amount go to zero. If receive amount larger than contribute amount, receive p-code is encoded from multiple contribute p-code until this receive amount go to zero.
 
@@ -14,7 +14,9 @@ p-charity keeps private contribute and receive profile, budget and transaction a
 
 p-charity supports enough stages(opening, dividing, closing, opening, dividing, closing, …) of one charity budget/event, automation contribute/receive, verify charity hosting/contributor/receiver, percentage amount, source amount.
 
-[back to projects …](https://github.com/vietphan1995/projects)
+[back to git projects …](https://github.com/vietphan1995/projects)
+
+[back to notion projects …](https://www.notion.so/Projects-23d5e832d6ee80149cedda9c49fefe21?pvs=21)
 
 ### Notes
 https://six-zinc-ad4.notion.site/p-charity-1bd5e832d6ee80a28300d660fbf8d2c4
