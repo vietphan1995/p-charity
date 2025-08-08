@@ -1,6 +1,8 @@
 # p-charity
 
-# Introduction
+## pCharity
+
+### Introduction
 
 [https://github.com/vietphan1995/p-charity](https://github.com/vietphan1995/p-charity)
 
@@ -13,6 +15,8 @@ If charity hosting has any problem, we can trace and pair p-code from 2 sides co
 p-charity keeps private contribute and receive profile, budget and transaction amount, contributor also get receive p-code when one receive transaction occur.
 
 p-charity supports enough stages(opening, dividing, closing, opening, dividing, closing, …) of one charity budget/event, automation contribute/receive, verify charity hosting/contributor/receiver, percentage amount, source amount.
+
+![image.png](image.png)
 
 [back to git projects …](https://github.com/vietphan1995/projects)
 
