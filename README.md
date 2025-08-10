@@ -21,4 +21,4 @@ p-charity supports enough stages(opening, dividing, closing, opening, dividing, 
 [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://six-zinc-ad4.notion.site/p-charity-1bd5e832d6ee80a28300d660fbf8d2c4
+https://phantrungviet.notion.site/p-charity-1bd5e832d6ee80a28300d660fbf8d2c4
