@@ -18,7 +18,7 @@ p-charity supports enough stages(opening, dividing, closing, opening, dividing, 
 
 ![image.png](image.png)
 
-[back to git projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
 https://phantrungviet.notion.site/p-charity-1bd5e832d6ee80a28300d660fbf8d2c4
